@@ -1,0 +1,24 @@
+Office Green is testing the Plant Pals project before its launch and you are the project manager responsible for the trial’s smooth operation. Your goal is keeping track of completed and upcoming tasks and milestones, as well as finding solutions for any issues that arise. 
+
+Completed Plant Pals tasks and milestones include:
+
+The IT Specialist purchased a new software to keep track of incoming orders and installed it on June 15. The installation took three days longer than expected.
+
+The Fulfillment Director began sending test batches of Plant Pals orders to customers on June 21. The number of orders exceeded targets by 15%.
+
+Upcoming Plant Pals tasks and milestones include:
+
+Send existing customers an e-newsletter with a tutorial on caring for their plants by July 7. The newsletter must follow Office Green’s brand design guidelines.  
+
+Hit at least 95% of delivery dates on time by July 19. The error rate should be under 5%.
+
+Your team is conducting an ongoing customer satisfaction survey for the test batches. The survey results for the first two weeks of shipments reveal three major issues: 
+
+The warehouse team reports that 10% of the plants were not properly potted. This leads to customer complaints, profit loss, and budget issues you did not anticipate. Your Warehouse Operations Manager is responsible for taking action on this issue.
+
+Due to an issue with the new software, the customer service team is receiving only 30% of requests and complaints. This leads to customer dissatisfaction. The team’s IT Specialist is responsible for taking action on this issue.
+
+There are not enough delivery drivers to deliver all the Plant Pals orders on time. The current delivery completion rate is 80%, leading some customers to cancel their subscriptions. The Human Resources Specialist is responsible for taking action on this issue.
+
+The team must address these issues in order to hit their upcoming project milestones. Your project status report will help them do that.
+

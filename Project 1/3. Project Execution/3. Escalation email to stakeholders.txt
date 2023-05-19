@@ -1,0 +1,5 @@
+Office Green is testing the Plant Pals project before official launch, and you are the project manager responsible for the project’s success. The team has already installed software to manage incoming orders and begun sending out test shipments to customers.
+
+However, your team has encountered some problems along the way. One major issue is that you don’t have enough drivers to deliver all of the orders on time. So far, the drivers have delivered only 80% of the plants successfully. Customer satisfaction has suffered, and some customers have already canceled their subscriptions. Your team needs to raise the on-time delivery rate to at least 90% to avoid sending the next batch out late. A delay could create even more issues—setting back the project timeline, risking product quality, and hurting revenue.
+
+You have several ideas to improve future delivery rates, but you need to discuss them with senior stakeholders. In order to explain the problem and your recommendations, you write an escalation email to the Director of Operations, the HR Specialist, the Senior Vice President of Human Resources, and the Director of Product.

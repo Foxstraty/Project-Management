@@ -1,0 +1,11 @@
+Now that you’ve added epics, user stories, acceptance criteria, and estimations to your Product Backlog, it's time to plan your first Virtual Verde Sprint! You meet with the Product Owner and your team to decide which items from the Product Backlog to address in your first Sprint. During your meeting you and your team answer the following questions:
+
+Who is available? All team members are available for the Sprint.
+
+What is the team’s points capacity (also known as velocity)? The team can typically complete 60 Story Points per three-week Sprint.
+
+How long is the Sprint? The team decides that this Sprint will take three weeks.
+
+What can and should the team accomplish in this upcoming Sprint? What is the ultimate Sprint goal? The Sprint Backlog can include stories from both epics, but the Product Owner has asked you to prioritize the Plant Care Initiatives epic first. If the team has enough capacity leftover, they can start work on the Bonsai Trees epic.
+
+To plan the Sprint, you will assign items from your Product Backlog to the Sprint Backlog. The total effort estimation (in Story Points) of the items you assign should match your team’s points capacity for a three-week Sprint. 
