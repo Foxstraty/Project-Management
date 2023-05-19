@@ -1,0 +1,20 @@
+As a project manager for Office Green, your job includes working with the operations team to develop and implement an Operations and Training plan. Your team will use this plan for ongoing maintenance of the Plant Pals service. It will take six months to fully implement all protocols, including setting up operational tools, putting delivery processes in place, and training employees. The project will begin before the Plant Pals launch and extend beyond it.
+
+The Operations team is responsible for managing the organization’s day-to-day business so that it continues to run smoothly. Operations provides resources to other departments, ensures consistency, and maintains the company’s profitability. The Chief Operations Officer (COO) typically leads the Operations team and works closely with other divisions, such as Sales, Client Services, Human Resources, Information Technology (IT), as well as the project manager. 
+
+Developing the Operations and Training plan marks a new stage of the project, with its own set of goals and deliverables. After assessing the requirements for the plan you determine three major milestones:
+
+Establish a plant delivery and logistics plan
+
+Select and install supply chain management software and equipment
+
+Develop and launch an employee training program
+
+For each milestone, you divide the work into three separate tasks. Each task has its own owner, duration, and details. The tasks associated with your milestones include: 
+
+Establish a plant delivery and logistics plan: Team members will need to source materials for packaging and hire delivery drivers. They are also responsible for calculating the delivery fees. 
+
+Select and install supply chain software and equipment: Team members will supervise vendor setup of inventory management and fulfillment software. They must also supervise vendor installation of fulfillment equipment and determine internal safety protocols for the equipment.
+
+Develop and launch an employee training program: Team members will need to develop training sessions, train employees to use the software and equipment, and monitor progress and improve training processes.
+
