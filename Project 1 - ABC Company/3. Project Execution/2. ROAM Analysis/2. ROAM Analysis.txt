@@ -1,0 +1,8 @@
+After installing the new software to keep track of orders and shipments, ABC Companys began sending out the first test batch of plants to customers. Your team has been conducting an ongoing customer satisfaction survey. Two weeks into the test shipments, the survey reveals the following issues:
+
+The warehouse team reports that 10% of the plants were not properly potted. This leads to customer complaints, profit loss, and budget issues you did not anticipate. 
+
+Due to a software issue, the customer relations team is receiving only 30% of requests and complaints. This leads to customer dissatisfaction.
+
+There are not enough delivery drivers to deliver all the ABC Companys orders on time. The current delivery completion rate is 80%, leading some customers to cancel their subscriptions.
+

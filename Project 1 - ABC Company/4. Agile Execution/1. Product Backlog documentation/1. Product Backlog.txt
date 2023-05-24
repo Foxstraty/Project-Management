@@ -1,0 +1,19 @@
+Imagine you are overseeing the development and launch of Virtual Verde, ABC Company's new product line. Virtual Verde’s mission is to make working from home more enjoyable by offering desk plants for home office use. New customers recently received the first batch of plants.
+
+As a next step, your team had planned to introduce new product offerings to the Virtual Verde catalog—starting with Bonsai trees. However, a customer survey discovered that 70% of the new customers had difficulty caring for their plants. Many of the plants wilted and died within a month. This information inspired the team to develop new offerings and companion products to help new owners care for their plants.
+
+From the survey, ABC Company learned that they can create value for their customers by making it easy to:
+
+Find out which plants are easiest to care for
+
+Access care instructions easily
+
+Have the right tools to care for their plants
+
+Remember when to water their plants
+
+Get expert help and advice quickly
+
+Have a hassle-free way to return their orders
+
+You will work with your team to create user stories that will help them build solutions to address these customer needs, and add them to the Product Backlog. Your team has already added Bonsai tree user stories to the Backlog, but the new plant care stories have now become the top priority.

@@ -1,0 +1,22 @@
+As a project manager for ABC Company, you are developing an Operations and Training plan for the new ABC Companys service. It will take six months to fully implement all protocols, including setting up operational tools, putting delivery processes in place, and training employees. You have already added milestones and tasks for this project to a WBS brainstorm diagram. Here are the milestones and their associated tasks:
+
+Establish a plant delivery and logistics plan: Team members will need to source materials for packaging and hire delivery drivers. They are also responsible for calculating the delivery fees. 
+
+Select and install supply chain software and equipment: Team members will supervise vendor setup of inventory management and fulfillment software. They must also supervise vendor installation of fulfillment equipment and determine internal safety protocols for the equipment. 
+
+Develop and launch an employee training program: Team members will need to develop training sessions, train employees to use the software and equipment, and monitor employee progress and improve training processes.
+
+Now you will add those tasks and milestones to a WBS spreadsheet. You will also use the sheet to record task owners and any notes about the tasks and their owners. The project sponsor for the Operations and Training plan, the Director of Operations, has put together a team for the operations launch. You can select task owners from among the following team:
+
+A Financial Analyst, who tracks and calculates costs and revenue
+
+A Fulfillment Director, who sources materials, ensures equipment is functional, and confirms fulfillment processes are correctly implemented
+
+An Inventory Manager, who maintains inventory and oversees software installation 
+
+A Human Resources Specialist, who manages hiring and develops training protocols (with the help of the Training Manager)
+
+A Training Manager, who reports to the HR Specialist, runs the training program on the established protocols, and refines training processes
+
+A Quality Assurance Tester, who ensures product quality and determines safety protocols and best practices
+

@@ -1,0 +1,7 @@
+Along with the Product Owner and the team, you’ve created user stories and acceptance criteria for the ABC Company's Product Backlog. Now you need to add effort estimations to each user story, which will help the team understand the amount of effort each task will take to complete. Once you have your estimations, the Product Owner can make any necessary adjustments to item priority in the Product Backlog. This information will help your team plan the upcoming Sprint.
+
+The Product Owner has already added a value for each user story in the Product Backlog. In this exercise, value represents how valuable the final deliverable is to the user role or customer. These value points are designated by dollar signs (so, $ = 1 value point, $$ = 2 value points, etc.).
+
+You will work with the Development Team to determine relative effort estimations for each Backlog item. Relative effort estimation isn’t just how much effort an item should take to complete. Instead, the Development Team evaluates the amount of effort each item takes compared to other items in the Product Backlog.
+
+You can use a number of different methods to estimate effort. Your team has opted to use Story Points, which are based on the Fibonacci sequence of numbers (1, 2, 3, 5, 8, 13, 21, etc.). For example, an item with an effort estimation of “1” should take little effort to complete, while an item estimated at “13” or “21” will take much more effort. There is no prescribed formula for determining Story Points. Rather, teams should work together to compare task estimations to one another.

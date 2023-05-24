@@ -1,0 +1,93 @@
+ABC Company's recently shipped test batches of plants to customers in advance of the formal service launch. To gauge customer satisfaction with the product and the service, your team surveyed 50 customers over a period of four weeks. After two weeks, the survey revealed three major issues concerning product quality, delivery timelines, and customer support. This feedback helped you make improvements to later test shipments.
+
+Now that you have the full survey results, you’re preparing a presentation to communicate key insights to your core team. Since the feedback is a direct response to the team’s efforts, you want to make sure they understand what the results mean. The presentation will help you decide on next steps for your support model and delivery protocols for the official launch. 
+
+The survey uncovered four interesting data points regarding support and delivery that you want to bring to your team:
+
+Data point 1: For the yes or no question, “Did your shipment arrive on time?,” the percentage of customers who answered “yes” breaks down as follows:
+
+Week 1
+
+78%
+
+Week 2
+
+80%
+
+Week 3
+
+86%
+
+Week 4
+
+90%
+
+
+Data point 2: For the multiple choice question, “What is your preferred time of day to receive a shipment from ABC Company's?,” the responses break down as follows:
+
+Before 9 AM
+
+50%
+
+9 AM - 12 PM
+
+30%
+
+12 PM - 4 PM
+
+10%
+
+4 PM - 7 PM
+
+5%
+
+After 7 PM
+
+5%
+
+
+Data point 3: For the scaled question, “On a scale of 1 to 5, with 1 being the lowest and 5 being the highest, how satisfied are you with customer support?,” the average scores were:
+
+Week 1
+
+2.3
+
+Week 2
+
+2.5
+
+Week 3
+
+4
+
+Week 4
+
+4.6
+
+
+Data point 4: For the free response question, “In general, how do you suggest we improve our customer support?," the answers break down as follows:
+
+41%
+
+Offer live chat support
+
+30%
+
+Share more step-by-step guides and tutorials
+
+19%
+
+Extend support hours
+
+10%
+
+Other
+
+
+When analyzing these data points, keep in mind the milestones you set and the issues you encountered. Remember that your team did the following after the first two weeks of survey results:
+
+Fixed a software issue that resulted in the customer relations team receiving only 30% of requests and complaints
+
+Hired more delivery drivers and reassessed delivery routes with the goal of bringing the on-time delivery rate from 80% to 95%
+
+Sent customers an e-newsletter with a tutorial on caring for their plants
